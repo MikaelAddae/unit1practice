@@ -1,0 +1,128 @@
+### Step 2A
+/c/Users/Kelsey & Mikael
+
+### Step 2B
+cd /c/Users/Kelsey\ \&\ Mikael/Desktop/
+
+
+### Step 2C
+cd /c/Users/Kelsey\ \&\ Mikael/Desktop/unit1-git-practice/
+
+
+### Step 2D
+/c/Users/Kelsey & Mikael/Desktop/unit1-git-practice
+
+
+### Step 2E
+ls
+
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd ~
+
+
+### Step 2H
+/c/Users/Kelsey & Mikael
+
+
+### Step 2I
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{6f8f8bce-6d40-11ed-ac90-e14d07ca7379}.TM.blf
+ NTUSER.DAT{6f8f8bce-6d40-11ed-ac90-e14d07ca7379}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{6f8f8bce-6d40-11ed-ac90-e14d07ca7379}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+
+
+### Step 2J
+cd ~
+
+
+### Step 2K
+cd Desktop/unit1-git-practice/
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
